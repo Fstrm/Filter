@@ -1,0 +1,7 @@
+CREATE DATABASE Site
+
+CREATE TABLE IPS (
+	RangeAlias NVARCHAR(64),
+	RangeStart BINARY(4),
+	RangeEnd BINARY(4)
+)

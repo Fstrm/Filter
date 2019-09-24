@@ -1,0 +1,6 @@
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+*.csproj.user
+*.nupkg
+.vs/
